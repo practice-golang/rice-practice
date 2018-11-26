@@ -1,3 +1,7 @@
+# Practice for go.rice
+
+## Prepare and build
+
 ```sh
 go get github.com/GeertJohan/go.rice/rice
 
